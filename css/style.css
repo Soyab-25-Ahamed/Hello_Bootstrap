@@ -9,10 +9,10 @@ body{
     font-size: 50px;
 }
 .getting{
-    background: url(../img/1.jpg) no-repeat;
-    height: 200px;
+    background: url(../img/1.jpg) no-repeat; 
     background-size: cover;
     position: relative;
+    min-height: 300px;
 }
 .getting-overlay{
     position: absolute;
